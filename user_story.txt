@@ -1,0 +1,26 @@
+User Story 1:
+
+As a user
+I want to be able to create a multi-page pdf notebook with lines
+So that I can take hand-written notes
+
+User Story 2:
+
+As a user
+I want to be able to section my notebook using headings 
+so that I can organise my notes better
+
+
+User Story 3:
+
+As a user
+I want to be able to generate a notebook from an existing .csv template
+so that I can easily modify the notebook
+
+
+User Story 4:
+
+As a user
+I want to be able to add a logo to the notebook
+So that I can market my company
+
